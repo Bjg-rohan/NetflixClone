@@ -18,6 +18,3 @@ It replicates the **UI design** of Netflix’s homepage, including the navigatio
 - **HTML5**  
 - **CSS3** (Flexbox & Grid for layout)  
 
----
-
-## 📂 Project Structure
